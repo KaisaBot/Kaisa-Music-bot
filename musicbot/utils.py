@@ -1,6 +1,5 @@
 import sys
 import logging
-import aiohttp
 import inspect
 
 from hashlib import md5
